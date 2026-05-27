@@ -1,0 +1,1 @@
+**Program to delete the smallest elements in an array**
