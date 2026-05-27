@@ -1,1 +1,1 @@
-**program to find the sum of boundary elements of an array matrix**
+**Program to find the sum of boundary elements of an array matrix**
