@@ -1,0 +1,1 @@
+**Find the largest and smallest elements in an array**
