@@ -25,17 +25,6 @@ prefix[0]=0;
         System.out.println("the sum between the range is " +sum);
 
 
-
-
-
-
-
-
     }
-
-
-
-
-
 
 }
