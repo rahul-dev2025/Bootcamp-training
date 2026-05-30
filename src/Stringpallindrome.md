@@ -1,0 +1,1 @@
+## Program to check the string is pallindrome or not ##
